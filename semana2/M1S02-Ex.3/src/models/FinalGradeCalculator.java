@@ -17,4 +17,6 @@ public class FinalGradeCalculator {
         return finalGrade = (gradeOne + gradeTwo + gradeThree)/3;
     }
 
+    
+
 }
